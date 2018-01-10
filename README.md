@@ -1,7 +1,3 @@
-
-
-## PHP 5.4
-
 5.4|5.5|5.6|7.0|7.1|7.2
 --|--|--|--|--|--
 [Traits](http://php.net/manual/en/language.oop5.traits.php)|[Generators](http://php.net/manual/en/language.generators.php)|[Constant expressions](http://php.net/manual/en/migration56.new-features.php#migration56.new-features.const-scalar-exprs)
